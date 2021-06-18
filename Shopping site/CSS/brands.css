@@ -1,0 +1,25 @@
+body {
+    height: 98vh;
+    background-color: #b5caee;
+    padding-left: 9.8%;
+  }
+  h2
+  {
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    color:#ffffff; 
+    font-variant: small-caps;
+    text-decoration: underline;
+    font-size : 70px;
+    padding-bottom: 25px;
+    font-style: italic;
+    text-align: center;
+    padding-right: 5%;
+  }
+  
+img {
+    margin : 20px; 
+    border: 5px double black;
+    width: 250px;
+    height: 200px;
+}
